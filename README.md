@@ -19,9 +19,10 @@ Use imwrite(filename, image) to write the image.
 ### Step5:
 End the program and close the output image windows.
 ## Program:
-
-## Developed By:Manoj Choudhary V
-## Register Number:212221240025
+*/
+Developed By:Manoj Choudhary V
+Register Number:212221240025
+/*
 # To Read,display the image
 ```
 import cv2
@@ -71,23 +72,12 @@ cv2.waitKey(0)
 ![](1.PNG)
 ### ii)Write the image
 ![](2.PNG)
-<br>
-<br>
-
 ### iii)Shape of the Image
 ![](3.PNG)
-<br>
-<br>
-
 ### iv)Access rows and columns
 ![](4.png)
-<br>
-<br>
-
 ### v)Cut and paste portion of image
-
 ![](5.PNG)
-
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
 
